@@ -1,0 +1,5 @@
+pip install mailchimp, geoip2, django-ipware, mysql-connector-python, twilio, ShopifyAPI, vero
+
+
+https://hostpresto.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-14-04/
+apt-get install redis-server
